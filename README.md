@@ -1,5 +1,5 @@
 # school-bookmarklets
-Collection of bookmarklets for school. I did not make these and they were collected from other sources.
+Collection of bookmarklets for school and for fun. I did not make these and they were collected from other sources.
 I did make the collection myself, I just didn't make the javascript myself. 
 
 **FAQ**
