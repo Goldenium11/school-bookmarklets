@@ -18,6 +18,6 @@ First download the html file in releases. Then on the top right of your screen y
 
 <b>SINGULAR BOOKMARKLETS - </b>
 
-
+First click on one of the folders (Bookmarklet Games, Bookmarklets, and Fun Bookmarklets). Then 
 
 
