@@ -2,7 +2,7 @@
 Collection of bookmarklets for school and for fun. I did not make these and they were collected from other sources.
 I did make the collection myself, I just didn't make the javascript myself. 
 
-<b>Change Log
+<b>Change Log (v1.1)
   
   -Added New Bookmarklets in Games
  
