@@ -3,9 +3,12 @@ Collection of bookmarklets for school and for fun. I did not make these and they
 I did make the collection myself, I just didn't make the javascript myself. 
 
 <b>Change Log
+  
   -Added New Bookmarklets in Games
+ 
   -Added the about:blank Embed Bookmarklet, rather than the site
-  -Renamed A lot of stuff<b>
+  
+  -Renamed A lot of stuff</b>
  
 
 IMPORT METHOD - 
