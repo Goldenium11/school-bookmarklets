@@ -10,9 +10,13 @@ I did make the collection myself, I just didn't make the javascript myself.
   
   -Renamed A lot of stuff</b>
  
+<b>How do I use this?</b>
 
-<b><u>IMPORT METHOD - </b></u>
+<b>IMPORT - </b>
+
 First download the html file in releases. Then on the top right of your screen you will see the 3 dots, click that and click on "Bookmarks." After this, click on the bookmark manager. Then when you are on that page, click the 3 dots on that page. Click import bookmarks. Double click the html file. Then you will have the bookmarklets in your bookmark bar. Click the bookmarks on a page to use them. 
 
-SINGULAR
+<b>SINGULAR BOOKMARKLETS - </b>
+
+
 
