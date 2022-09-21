@@ -22,4 +22,4 @@ First download the html file in releases. Then on the top right of your screen y
 
 First click on one of the folders (Bookmarklet Games, Bookmarklets, and Fun Bookmarklets). Then drag the name to your bookmarks bar. To use it click on the bookmark. The name explains what it does, but I will put more detailed descriptions below this.
 
-
+<b>What everything does.</b>
