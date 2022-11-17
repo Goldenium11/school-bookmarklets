@@ -1,5 +1,5 @@
 # school-bookmarklets
-Note I mostly stopped working on this because my school blocked bookmarklets, but I may return soon.
+Note: I mostly stopped working on this because my school blocked bookmarklets, but I may return soon.
 
 Collection of bookmarklets for school and for fun. I did not make these and they were collected from other sources.
 I did make the collection myself, I just didn't make the javascript myself. 
