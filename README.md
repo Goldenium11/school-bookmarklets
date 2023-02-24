@@ -29,11 +29,11 @@ First click on one of the folders (Bookmarklet Games, Bookmarklets, and Fun Book
 
 <b>MOST IMPORTANT BOOKMARKLETS EXPLAINED -</b>
 
-</b>About Blank:</b> Type in your site.
+<b>About Blank:</b> Type in your site.
 
-</b>Ext. Remover:</b> Go to https://chrome.google.com/webstorex
+<b>Ext. Remover:</b> Go to https://chrome.google.com/webstorex
 
-</b>Ext. Adder:</b> 
+<b>Ext. Adder:</b> 
 
 -Find the extension you want
 
@@ -43,14 +43,14 @@ First click on one of the folders (Bookmarklet Games, Bookmarklets, and Fun Book
 
 -Find the extension id for the one you want. (Go to any extension you want on webstore and it should be at the end, ex: adbacgifemdbhdkfppmeilbgppmhaobf).
 
-</b>Eaglercraft:</b> This one isnt a bookmarklet, its just a bookmark. You go to the site, right click, save, and then you load the file. 
+<b>Eaglercraft:</b> This one isnt a bookmarklet, its just a bookmark. You go to the site, right click, save, and then you load the file. 
 
-</b>Embed:</b> You have to actually edit the bookmark. Find the part that says "Put URL here" and change it to a url you want. Ex: https://google.com/ 
+<b>Embed:</b> You have to actually edit the bookmark. Find the part that says "Put URL here" and change it to a url you want. Ex: https://google.com/ 
 
 -THIS IS NOT A PROXY ITS JUST A EMBED FEATURE.
 
 -Also use the close embed bookmarklet to close it. 
 
-</b>Edit+:</b> Basically edits the page until you press the bookmarklet again. 
+<b>Edit+:</b> Basically edits the page until you press the bookmarklet again. 
 
-</b>All the fun bookmarklets should be self explanatory based on their name. Same with the bookmarklet games.</b>
+<b>All the fun bookmarklets should be self explanatory based on their name. Same with the bookmarklet games.</b>
