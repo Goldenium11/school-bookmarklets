@@ -4,6 +4,7 @@ Discord Username: TermZ#0438
 
 Collection of bookmarklets for school and for fun. I did not make these and they were collected from other sources.
 I did make the collection myself, I just didn't make the javascript myself. 
+
 Source for kahoot and blooket bookmarklets: https://rogue.best
 
 <b>NOTE: These bookmarklets have cheats and other stuff, use it responsibly. It's not my problem if you get in trouble or anything happens (Should not happen if you use it responsibly).</b>
