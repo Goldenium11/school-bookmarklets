@@ -1,18 +1,16 @@
 # school-bookmarklets
-Note: I mostly stopped working on this because my school blocked bookmarklets, but I may return soon.
+I returned!
 
 Collection of bookmarklets for school and for fun. I did not make these and they were collected from other sources.
 I did make the collection myself, I just didn't make the javascript myself. 
 
 <b>NOTE: These bookmarklets have cheats and other stuff, use it responsibly. It's not my problem if you get in trouble or anything happens (Should not happen if you use it responsibly).</b>
 
-<b>Change Log (v1.1)
+<b>Change Log (v1.2)
   
-  -Added New Bookmarklets in Games
- 
-  -Added the about:blank Embed Bookmarklet, rather than the site
+  -Deleted all blooket cheats. They are outdated and will get you banned or will make your page stop working. Replaced it 
   
-  -Renamed A lot of stuff</b>
+  -Added extension remover and adder.</b>
  
 <u>How do I use this?</u>
 
@@ -24,4 +22,7 @@ First download the html file in releases. Then on the top right of your screen y
 
 First click on one of the folders (Bookmarklet Games, Bookmarklets, and Fun Bookmarklets). Then drag the name to your bookmarks bar. To use it click on the bookmark. The name explains what it does, but I will put more detailed descriptions below this.
 
-<b>What everything does.</b>
+<b>Most important things.</b>
+
+About Blank: Type in your site.
+
