@@ -9,7 +9,7 @@ Source for kahoot and blooket bookmarklets: https://rogue.best
 
 <b>NOTE: These bookmarklets have cheats and other stuff, use it responsibly. It's not my problem if you get in trouble or anything happens (Should not happen if you use it responsibly).</b>
 
-<b>Change Log (v1.2)
+# Change Log (v1.2)
   
   -Deleted all old blooket cheats. They are outdated and will get you banned or will make your page stop working. Replaced it with https://rogue.best and it's bookmarklets. 
   
