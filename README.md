@@ -15,7 +15,7 @@ Source for kahoot and blooket bookmarklets: https://rogue.best
   
   -Added extension remover and adder.
 
-  -Deleted the old extension removers since we get new ones!</b>
+  -Deleted the old extension removers since we got new ones!</b>
  
 # How do I use this?
 
