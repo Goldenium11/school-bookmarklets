@@ -27,15 +27,27 @@ First click on one of the folders (Bookmarklet Games, Bookmarklets, and Fun Book
 <b>Most important things.</b>
 
 About Blank: Type in your site.
+
 Ext. Remover: Go to https://chrome.google.com/webstorex
+
 Ext. Adder: 
+
 -Find the extension you want
+
 -Come up with a name.
+
 -Find a Picture you want (Find any site icon and put /favicon.io at the end. Ex: https://www.google.com/favicon.ico
+
 -Find the extension id for the one you want. (Go to any extension you want on webstore and it should be at the end, ex: adbacgifemdbhdkfppmeilbgppmhaobf).
+
 Eaglercraft: This one isnt a bookmarklet, its just a bookmark. You go to the site, right click, save, and then you load the file. 
+
 Embed: You have to actually edit the bookmark. Find the part that says "Put URL here" and change it to a url you want. Ex: https://google.com/ 
+
 -THIS IS NOT A PROXY ITS JUST A EMBED FEATURE.
+
 -Also use the close embed bookmarklet to close it. 
+
 Edit+: Basically edits the page until you press the bookmarklet again. 
+
 All the fun bookmarklets should be self explanatory based on their name. Same with the bookmarklet games. 
