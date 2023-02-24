@@ -11,7 +11,7 @@ Source for kahoot and blooket bookmarklets: https://rogue.best
 
 <b>Change Log (v1.2)
   
-  -Deleted all blooket cheats. They are outdated and will get you banned or will make your page stop working. Replaced it with https://rogue.best and it's bookmarklets. 
+  -Deleted all old blooket cheats. They are outdated and will get you banned or will make your page stop working. Replaced it with https://rogue.best and it's bookmarklets. 
   
   -Added extension remover and adder.</b>
  
