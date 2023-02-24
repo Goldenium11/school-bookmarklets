@@ -2,7 +2,7 @@
 I returned!
 Discord Username: TermZ#0438
 
-Collection of bookmarklets for school and for fun. I did not make these and they were collected from other sources.
+A compact arrangement of bookmarklets for fun and for school. I did not make these and they were collected from other sources.
 I did make the collection myself, I just didn't make the javascript myself. 
 
 Source for kahoot and blooket bookmarklets: https://rogue.best
@@ -25,7 +25,7 @@ First download the html file in releases. Then on the top right of your screen y
 
 First click on one of the folders (Bookmarklet Games, Bookmarklets, and Fun Bookmarklets). Then drag the name to your bookmarks bar. To use it click on the bookmark. The name explains what it does, but I will put more detailed descriptions below this.
 
-<b>Most important things.</b>
+<b>MOST IMPORTANT BOOKMARKLETS EXPLAINED -</b>
 
 About Blank: Type in your site.
 
