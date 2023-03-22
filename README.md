@@ -6,6 +6,7 @@ A compact arrangement of bookmarklets for fun and for school. I did not make the
 I did make the collection myself, I just didn't make the javascript myself. 
 
 Source for kahoot and blooket bookmarklets: https://rogue.best
+https://google.com
 
 <b>NOTE: These bookmarklets have cheats and other stuff, use it responsibly. It's not my problem if you get in trouble or anything happens (Should not happen if you use it responsibly).</b>
 
